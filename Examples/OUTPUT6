@@ -1,0 +1,10 @@
+add song with ID 0
+add song with ID 1
+Play song with ID 0
+Skip song
+add song with ID 2
+Skip All Played Songs ON
+Play song with ID 2
+Play song with ID 1
+Play song with ID -1
+Play song with ID -1
